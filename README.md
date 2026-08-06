@@ -1,5 +1,4 @@
 - 👋 Hey Hey Hey!
-- Here I am gonna share my AI tools.
 - 
 
 <!---
